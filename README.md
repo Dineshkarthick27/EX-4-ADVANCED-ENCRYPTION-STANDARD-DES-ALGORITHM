@@ -1,4 +1,6 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# NAME:DINESH KARTHICK K J
+# REG NO:212222100011
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
